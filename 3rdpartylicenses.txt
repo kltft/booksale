@@ -154,6 +154,10 @@ THE SOFTWARE.
 MIT
 MIT
 
+@angular/compiler@5.2.9
+MIT
+MIT
+
 @angular/router@5.2.9
 MIT
 MIT
